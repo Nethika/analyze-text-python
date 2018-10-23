@@ -1,6 +1,6 @@
 # analyze-text-python
 
-`functiona to Analyze text`
+`functions to Analyze text`
 
 
 
